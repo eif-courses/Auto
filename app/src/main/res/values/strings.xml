@@ -2,6 +2,11 @@
     <string name="app_name">Auto</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="auto">Automobiliai</string>
+    <string name="auto">Autos</string>
     <string name="credits">Credits</string>
+    <string name="screen1">Free Petrol for your car!</string>
+    <string name="next">Next</string>
+    <string name="screen2">Wash your car!</string>
+    <string name="screen3">Your car is happy now :)</string>
+    <string name="finish">Finish</string>
 </resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto</string>
+    <string name="hello_blank_fragment">Tuscias</string>
+    <string name="auto">Automobiliai</string>
+    <string name="credits">Autoriai</string>
+    <string name="screen1">Nemokamas kuras jūsų mašinai!</string>
+    <string name="next">Sekantis</string>
+    <string name="screen2">Nuplauk savo auto!</string>
+    <string name="screen3">Jūsų automonbilis laimingas!</string>
+    <string name="finish">Baigti</string>
+</resources>
