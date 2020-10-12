@@ -97,7 +97,7 @@ class LoginFragment : Fragment(R.layout.fragment_login) {
                     .get()
                     .addOnSuccessListener { documents ->
                         for (document in documents) {
-                            Log.d(TAG, "${document.id} => ${document.data}")
+                            Log.d(TAG, "${document.id} => ${document.data["name"]}")
                         }
                     }
                     .addOnFailureListener { exception ->
