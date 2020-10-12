@@ -15,14 +15,14 @@ class Screen3Fragment : Fragment(R.layout.fragment_screen3) {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         view.screen3_btn.setOnClickListener {
-            findNavController().navigate(R.id.action_viewPagerFragment_to_homeFragment)
+            findNavController().navigate(R.id.action_viewPagerFragment_to_loginFragment)
             onBoardingScreen()
         }
     }
     private fun onBoardingScreen(){
         val sharedPref = requireActivity().getSharedPreferences("onBoarding", Context.MODE_PRIVATE)
         val editor = sharedPref.edit()
-        editor.putBoolean("Finished3", true)
+        editor.putBoolean("Finished4", true)
         editor.apply()
     }
 }

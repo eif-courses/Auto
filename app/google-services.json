@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465167296218",
+    "firebase_url": "https://auto-16c1c.firebaseio.com",
+    "project_id": "auto-16c1c",
+    "storage_bucket": "auto-16c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465167296218:android:4bd2cc1c0c29e0346027e3",
+        "android_client_info": {
+          "package_name": "eif.viko.lt.auto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465167296218-9499v8rk6g5hphorcuf182embfg6s2rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eif.viko.lt.auto",
+            "certificate_hash": "438bb009c36fd45ec1e2ad582060da3617a3e261"
+          }
+        },
+        {
+          "client_id": "465167296218-kpomnm2f7ghg15b4j71q8ggdrcr11ee1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0N8vw7mBigB5XdabmYwX0UGjjrM2VWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465167296218-kpomnm2f7ghg15b4j71q8ggdrcr11ee1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
